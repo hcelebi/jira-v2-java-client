@@ -1,8 +1,8 @@
-package io.github.hcelebi.client;
+package io.github.hcelebi.jirav2.client;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import io.github.hcelebi.dto.UserProperty;
-import io.github.hcelebi.exception.JiraV2RunTimeException;
+import io.github.hcelebi.jirav2.domain.dto.UserProperty;
+import io.github.hcelebi.jirav2.exception.JiraV2RunTimeException;
 
 import java.io.IOException;
 import java.net.URI;

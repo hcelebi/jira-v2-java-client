@@ -1,4 +1,4 @@
-package io.github.hcelebi.dto;
+package io.github.hcelebi.jirav2.domain.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package io.github.hcelebi.exception;
+package io.github.hcelebi.jirav2.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
